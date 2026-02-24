@@ -19,6 +19,7 @@
     "aws",
     "toolkit"
   ],
+  "author": "Hardik Niranjani",
   "license": "MIT",
   "private": false,
   "publishConfig": {
@@ -30,6 +31,14 @@
   "devDependencies": {
     "@types/node": "^25.3.0",
     "typescript": "^5.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardikniranjani/cloud-service-kit.git"
+  },
+  "homepage": "https://github.com/hardikniranjani/cloud-service-kit#readme",
+  "bugs": {
+    "url": "https://github.com/hardikniranjani/cloud-service-kit/issues"
   },
   "engines": {
     "node": ">=18.0.0"
