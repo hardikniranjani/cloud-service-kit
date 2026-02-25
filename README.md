@@ -1,6 +1,12 @@
 # cloud-service-kit
 
+[![npm version](https://img.shields.io/npm/v/cloud-service-kit)](https://www.npmjs.com/package/cloud-service-kit)
+[![license](https://img.shields.io/npm/l/cloud-service-kit)](https://github.com/hardikniranjani/cloud-service-kit/blob/main/LICENSE)
+
 A modular cloud service toolkit for Node.js. Handles S3 media uploads, with support for more services (email, etc.) coming soon.
+
+- **npm**: [https://www.npmjs.com/package/cloud-service-kit](https://www.npmjs.com/package/cloud-service-kit)
+- **GitHub**: [https://github.com/hardikniranjani/cloud-service-kit](https://github.com/hardikniranjani/cloud-service-kit)
 
 ## Installation
 
@@ -194,10 +200,6 @@ npm login
 npm publish
 npm info cloud-service-kit
 ```
-
-## Repository
-
-GitHub: [https://github.com/hardikniranjani/cloud-service-kit](https://github.com/hardikniranjani/cloud-service-kit)
 
 ## Author
 
