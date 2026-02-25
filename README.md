@@ -195,6 +195,14 @@ npm publish
 npm info cloud-service-kit
 ```
 
+## Repository
+
+GitHub: [https://github.com/hardikniranjani/cloud-service-kit](https://github.com/hardikniranjani/cloud-service-kit)
+
+## Author
+
+**Hardik Niranjani**
+
 ## License
 
 MIT
